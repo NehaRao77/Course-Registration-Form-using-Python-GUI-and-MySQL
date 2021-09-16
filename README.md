@@ -3,6 +3,7 @@ COURSE REGISTRATION FORM USING PYTHON GUI AND MYSQL
 This is a GUI project created by using Python GUI Tkinter and MySQL database. 
 
 Requirements
+
 For successful functioning of the application please complete the following requirements:
 i.	Install the following libraries: tkinter, mysql.connector, time, functools.
 ii.	After installing the required libraries, you need to create a database and connect it to the code. To create the required database, follow the steps mentioned below:
